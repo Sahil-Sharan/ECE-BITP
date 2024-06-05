@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=major-project/html/index.html">
+    <meta http-equiv="refresh" content="0; url=major proect/html/Project.html">
     <title>Redirecting...</title>
 </head>
 <body>
