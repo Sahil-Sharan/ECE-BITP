@@ -86,7 +86,7 @@
 
 #home::before{
     content: "";
-    background:url(ECE-BITP/major proect/images/3274408.jpg);
+    background:url(../images/3274408.jpg);
     background-repeat: no-repeat;
     position: absolute;
     margin-top: 50px;
